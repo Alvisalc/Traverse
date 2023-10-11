@@ -22,6 +22,11 @@
     --cardBG: rgb(225, 225, 235);
 }
 
+/* important code to scroll the website smooth via HTML */
+html{
+    scroll-behavior: smooth;
+}
+
 a{
     text-decoration: none;
 }
@@ -86,3 +91,22 @@ body{
 }
 
 /* Default styling as above */
+
+/* Media Interfaces */
+
+@media screen and (min-width: 1240px) {
+    .container{
+        width: 80% !important;
+        margin: auto !important;
+    }
+
+    .section{
+        padding: 6rem 0 4rem;
+    }
+}
+
+@media screen and (min-width: 2560px) {
+    body{
+        zoom: 1.7;
+    }
+}
