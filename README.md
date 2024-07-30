@@ -9,4 +9,8 @@
 
 ## 👇 See the Demo:
 <p>Demo Link: <a href="https://traverse-drab.vercel.app/" target="_blank"rel="noopener noreferrer">Demo</a></p>
-![hero](https://github.com/user-attachments/assets/efc109c3-4c83-4c58-b017-4118d8d81f7d)
+
+![traverse-home-page](https://github.com/user-attachments/assets/6b68a5f1-813d-4528-862f-a911b626bfbf)
+![traverse-main-page](https://github.com/user-attachments/assets/69a8e9fe-e244-4a5b-afc7-274a379d5a55)
+![traverse-main-page-2](https://github.com/user-attachments/assets/195f13b2-6644-4d67-b047-0f4a12cb83fc)
+![traverse-footer](https://github.com/user-attachments/assets/ec02fc4b-e81e-496c-a6c3-7bab103724ac)
